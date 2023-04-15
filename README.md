@@ -1,2 +1,2 @@
 # code-wars
-# javascriot solutions to code wars training
+# javascriptt solutions to code wars training
