@@ -30,8 +30,8 @@
 
 
 
-function greet(lang) {
-	return langs[lang]||langs['english'];
+function greet(lan) {
+	return langs[lan]||langs['english'];
 }
 
 var langs = {
