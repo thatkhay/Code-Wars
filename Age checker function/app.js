@@ -8,9 +8,13 @@
 let input = document.querySelector('input')
 let text = document.querySelector('h1')
 let button = document.querySelector('button')
+
+
 button.addEventListener('click', function() {
     text.textContent = ageChecker();
 })
+
+
 
 function ageChecker() {
     let age = parseInt(input.value);
