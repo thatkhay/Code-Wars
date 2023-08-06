@@ -1,2 +1,2 @@
 # code-wars
-# javascriptt solutions to code wars training kata
+# javascriptt solutions to code wars training 
