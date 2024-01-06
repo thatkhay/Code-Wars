@@ -1,2 +1,2 @@
 # code-wars
-# javascript solutions to code wars training .
+# javascript solutions to code wars training.
